@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function () {
+export default function Header () {
   return (
     <div>
         <h1 className='font-bold mb-5 text-green-500 text-[3rem] xl:text-[4rem]'>La Cactus Club</h1>
